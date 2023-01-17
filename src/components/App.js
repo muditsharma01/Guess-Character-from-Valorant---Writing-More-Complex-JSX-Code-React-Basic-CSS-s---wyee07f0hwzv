@@ -1,7 +1,6 @@
 import React, { Fragment, useEffect, useState } from "react";
 import "../styles/App.css";
 
-
 const characters = [
   {
     id: 1,
